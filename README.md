@@ -2,7 +2,7 @@
 
 Meu nome é Cauã Cardoso
 
-- Estou estudando na Alura;
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou se desenvolvendo na linguagem JavaScrip
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
